@@ -1,0 +1,4 @@
+C002*Budi*Check In*08:05
+C003*Citra*Check In*08:10
+C004*Aji*Check In*09:00
+C005*Abraham*Check In*12:58
